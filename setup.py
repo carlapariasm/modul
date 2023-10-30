@@ -6,7 +6,7 @@ A brief comment just to modify the file
 """
 
 from setuptools import setup, find_packages
-from module_structure import __author__,__version__,__name__
+from tensor_calculator import __author__,__version__,__name__
 
 
 VERSION = __version__
